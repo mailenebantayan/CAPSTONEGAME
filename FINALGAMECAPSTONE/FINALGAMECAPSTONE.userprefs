@@ -1,8 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CAMERAFOLLOW.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SCRIPTS\Score.js">
     <Files>
-      <File FileName="Assets\CAMERAFOLLOW.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS\Score.js" Line="16" Column="17" />
+      <File FileName="Assets\SCRIPTS\LoadLevel.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
