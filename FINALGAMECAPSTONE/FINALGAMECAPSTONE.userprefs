@@ -1,9 +1,13 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SCRIPTS\Score.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SCRIPTS\GAMECONTROLLER.cs">
     <Files>
-      <File FileName="Assets\SCRIPTS\Score.js" Line="16" Column="17" />
+      <File FileName="Assets\SCRIPTS\Score.js" Line="1" Column="1" />
       <File FileName="Assets\SCRIPTS\LoadLevel.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS\SpikeMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS\MAINMENU.cs" Line="1" Column="1" />
+      <File FileName="Assets\SCRIPTS\GAMECONTROLLER.cs" Line="50" Column="35" />
+      <File FileName="Assets\SCRIPTS\BACKTOMAIN.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
